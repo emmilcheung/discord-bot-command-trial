@@ -88,9 +88,3 @@ Set the deployed Worker URL as the **Interactions Endpoint URL** in your Discord
 yarn dev                            # start wrangler dev on :8787
 cloudflared tunnel --url http://localhost:8787   # expose to Discord
 ```
-
----
-
-## License
-
-MIT
