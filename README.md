@@ -1,4 +1,4 @@
-# Disord bot command with cloudflare Worker
+# Disord bot command with Cloudflare Worker
 
 > A minimal trail/experiment — Discord slash command bot running on a **Cloudflare Worker**.
 
